@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FredericoPerpetuo
-- 👀 I’m interested in JS, NODE, REACT, JAVA, REACT NATIVE, HTML, CSS, SASS, BOOTSTRAP, ANGULAR
-- 🌱 I’m currently learning JS, NODE, REACT, JAVA, REACT NATIVE, ANGULAR
-- 💞️ I’m looking to collaborate on JS, NODE, REACT, JAVA, REACT NATIVE, ANGULAR
+- 👀 I’m interested in JS, REACT, JAVA
+- 🌱 I’m currently learning JS, REACT, JAVA
+- 💞️ I’m looking to collaborate on JS, REACT, JAVA
 - 📫 How to reach me: fredsp.ti@gmail.com
 
 <!---
