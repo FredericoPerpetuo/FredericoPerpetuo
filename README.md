@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FredericoPerpetuo
-- 👀 I’m interested in TYPESCRIPT, REACT, JAVA
-- 🌱 I’m currently learning TYPESCRIPT, REACT, JAVA
-- 💞️ I’m looking to collaborate on TYPESCRIPT, REACT, JAVA
+- 👀 I’m interested in TYPESCRIPT, REACT, JAVA, AI
+- 🌱 I’m currently learning TYPESCRIPT, REACT, JAVA, AI
+- 💞️ I’m looking to collaborate on TYPESCRIPT, REACT, JAVA, AI
 - 📫 How to reach me: fredsp.ti@gmail.com
 
 <!---
